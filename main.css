@@ -1,0 +1,31 @@
+h1 {
+    color: white;
+    background-color: blue;
+    font-family: 'Fredoka One', sans-serif;
+    padding: 20px;
+}
+h2 {
+    font-family: 'Fredoka One', sans-serif;
+}
+h3 {
+    font-family: 'Fredoka One', sans-serif;
+}
+h4 {
+    font-family: 'Fredoka One', sans-serif;
+}
+h5 {
+    font-family: 'Fredoka One', sans-serif;
+}
+h6 {
+    font-family: 'Fredoka One', sans-serif;
+}
+
+.line {
+    width: 100%;
+    height: 1px; /* Adjust the height to change the thickness of the line */
+    background-color: white; /* Adjust the color of the line */
+}
+
+.fredoka-link {
+    font-family: 'Fredoka One', sans-serif;
+}
